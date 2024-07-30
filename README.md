@@ -9,9 +9,11 @@ maintaining a fixed position visible on all pages.<br><br>
 <ul>
   <li><b>Responsive Design:</b> Optimized for various screen sizes</li>
     <li><b>Interactive Navigation Menu:</b><br>
-              *Changes color/style on scroll</li>
+      <ul>
+              <li></li>Changes color/style on scroll</li>
               <li>Changes color/style on hover</li>
               <li>Fixed position across all pages</li>
+      </ul>
     </li>
 </ul>
 <b>Technologies Used</b>
